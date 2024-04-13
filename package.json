@@ -1,0 +1,16 @@
+{
+  "name": "socketio-teste",
+  "version": "1.0.0",
+  "description": "Aprendendo usar socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "Abner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
